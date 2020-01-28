@@ -1,1 +1,0 @@
-Free code camp basic javascript algorithms

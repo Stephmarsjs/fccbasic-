@@ -5,8 +5,12 @@ function findLongestWordLength(str) {
     for (var i = 0; i < words.length; i++) {
       if (words[i].length > maxLength) {
         maxLength = words[i].length;
+    
       }
+    
     }
-  
+    
     return maxLength;
-  }
+    
+   
+}
