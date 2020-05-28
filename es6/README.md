@@ -1,1 +1,0 @@
-This is the solution to Freecodecamp : ES6: Use Destructuring Assignment to Assign Variables from ArraysPassed
